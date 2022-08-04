@@ -5,7 +5,7 @@ package threads;
 import java.util.Scanner;
 
 //class name that extends the Thread class by Inheritance 
-public class thread1 extends Thread
+public class ThreadUsingExtendingThreadClass extends Thread
 
 {	// main method
 	public static void main(String args[])
