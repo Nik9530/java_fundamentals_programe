@@ -24,9 +24,9 @@ public class thread1 extends Thread
 	{
 		int num1,num2,sum;
 		Scanner sc =new Scanner (System.in);
-		System.out.println("Enter your first no. ");
+		System.out.println("Enter your first num. ");
 		num1=sc.nextInt();
-		System.out.println("Enter your Second no. ");
+		System.out.println("Enter your Second num. ");
 		num2=sc.nextInt();
 		sum=num1+num2;
 		System.out.println("The sum of numbers is "+sum);
